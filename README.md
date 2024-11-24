@@ -26,9 +26,11 @@ Kamienie milowe:
 Diagram Gantta uwzględni podział zadań i dostępność zasobów.
 
 ## 3. Doręczenie
-Raporty będą składane na zakończenie kluczowych etapów (projektowanie, implementacja, testowanie). Zawartość:
-    * Kod w formie archiwum.
-    * Dokumentacja techniczna.
+Raporty będą składane na zakończenie kluczowych etapów (projektowanie, implementacja, testowanie).  
+Zawartość:  
+* Kod w formie archiwum.
+* Dokumentacja techniczna.
+
 Raporty będą przechowywane w systemie kontrolowanego dostępu.
 
 ## 4. Środowisko pracy  
