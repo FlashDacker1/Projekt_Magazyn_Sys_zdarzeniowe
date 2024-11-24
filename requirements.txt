@@ -1,0 +1,5 @@
+# Lista wymaganych bibliotek
+simpy
+numpy
+pygame
+matplotlib
