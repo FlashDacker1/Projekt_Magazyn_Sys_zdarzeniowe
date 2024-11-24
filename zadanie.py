@@ -1,0 +1,1 @@
+# Klasa reprezentująca zadanie (opcjonalnie)
